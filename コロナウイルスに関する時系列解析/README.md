@@ -1,3 +1,3 @@
-Kaggle　Notebookの方が、見やすくなっています
+Kaggle Notebookの方が、見やすくなっています
 
 ・
